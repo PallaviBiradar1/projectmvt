@@ -1,2 +1,6 @@
 # Output Sample
-Screenshot (769).png
+
+Below is the screenshot of my project output:
+
+![Output Sample](Screenshot%20(769).png)
+
